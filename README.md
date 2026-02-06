@@ -51,17 +51,17 @@ Open a terminal (Command Prompt / PowerShell) in the `myecommerce` folder.
 ### 4️⃣ Install Dependencies
 Run:
 
-install dependencies
+install dependencies and run the project
 ```bash
 npm install
 ```
 Install Axios
 ```bash
-*npm install axios*
+npm install axios
 ```
 start the app
 ```bash
-*npm start*
+npm start
 ```
 
 ---
