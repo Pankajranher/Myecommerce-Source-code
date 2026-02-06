@@ -4,21 +4,7 @@ This is the source code of a React-based e-commerce application built with **Rea
 
 The web app will looks like this after run --> [https://pankajranher.github.io/Myecommerce/](https://pankajranher.github.io/Myecommerce/)
 
----
-
-## Table of Contents
-- [Quick Start (ZIP Download)](#quick-start-zip-download)
-- [Installation from GitHub](#installation-from-github)
-- [Running the App](#running-the-app)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [Notes](#notes)
-- [License](#license)
-
----
-
-## Quick Start (ZIP Download)
-
+--
 ### 1️⃣ Extract the ZIP
 - Right-click the downloaded ZIP file → **Extract All**  
 - Navigate into the extracted folder.  
@@ -66,19 +52,22 @@ Open a terminal (Command Prompt / PowerShell) in the `myecommerce` folder.
 Run:
 
 ```bash
-npm install
+install dependencies
+*npm install*
+
+Install Axios
+*npm install axios*
 
 start the app
-npm start
+*npm start*
 
-```bash
+```
 ---
 
 ## 👨‍💻 Author
 
 **Pankaj Ranher**
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* LinkedIn: [https://linkedin.com/in/pankaj-ranher]([linkedin.com/in/pankaj-ranher](https://linkedin.com/in/pankaj-ranher))
 
 ---
