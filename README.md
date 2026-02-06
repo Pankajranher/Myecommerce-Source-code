@@ -63,6 +63,10 @@ start the app
 ```bash
 npm start
 ```
+Run
+```bash
+npm run
+```
 
 ---
 
