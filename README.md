@@ -73,10 +73,13 @@ npm start
 
 ---
 
-## Footer
+---
 
-© 2026 MyEcommerce. All rights reserved.  
-Built with ❤️ using React, Tailwind CSS, and Axios.  
+## 👨‍💻 Author
 
-[LinkedIn](https://github.com/yourusername/your-repo) | [License](LICENSE)
+**Pankaj Ranher**
 
+* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
